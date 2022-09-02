@@ -1,1 +1,33 @@
 /* Write your CSS here! */
+
+body {
+    background-color: #FB5912;
+}
+
+img {
+
+    width:350px ; 
+    height:350px ;
+    border-radius: 50%;
+}
+
+h1,h2,h3 {
+    color: #3300CC ;
+    position: 0,500px;
+}
+h2 {
+    position : center ;
+    left : 300px ;
+}
+
+p.ricechickenredletter {
+    color : blue;
+}
+
+#headingnoodle {
+    color : aquamarine;
+}
+
+#Headinggreen {
+    color :aqua;
+}
